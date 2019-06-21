@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1",
     "react-tilt": "^0.1.4"
   },
-  "homepage":"https://DarklordIvI.github.io/lights-out",
+  "homepage":"https://darklordivi.github.io/lights-out/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
